@@ -22,3 +22,13 @@ Concepts Demonstrated
 Educational Purpose
 
 This project was developed in a controlled lab environment to understand how keystroke monitoring tools work and how modern operating systems restrict unauthorized input monitoring.
+
+## How to Run
+
+Install dependencies
+
+pip install -r requirements.txt
+
+Run the program
+
+python3 main.py
