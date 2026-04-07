@@ -2,7 +2,7 @@
 Project Overview
 ## Demo
 
-![Program Demo](Python Image.jpg)
+![Program Demo](Python-Image.jpg)
 
 This project is a Python proof-of-concept created for educational cybersecurity research.
 It explores how keyboard input events can be captured using Python and how operating systems implement security controls such as macOS Input Monitoring permissions.
